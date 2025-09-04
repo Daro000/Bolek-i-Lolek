@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Bolek i Lolek/MainWindow.axaml" value="Bolek i Lolek/Bolek i Lolek.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
