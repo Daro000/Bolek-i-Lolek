@@ -7,32 +7,35 @@
         Title="Bolek_i_Lolek">
     
     <StackPanel>
-        
-        <TextBox Watermark="Wpisz tutaj..." Width="200"></TextBox>
+        <StackPanel Orientation="Horizontal">
+        <TextBox Watermark="Wpisz tutaj..." Width="200" HorizontalAlignment="Left" Margin="10"></TextBox>
         
         <Button Content="Dodaj"></Button>
+        </StackPanel>
         
-        <TextBlock>Lista z zadaniami Bloka i Lolka</TextBlock>
+        <TextBlock HorizontalAlignment="Center">Lista z zadaniami Bloka i Lolka</TextBlock>
         
-        <ListBox x:Name="ListaZadan" SelectionMode="Single"></ListBox>
+        <ListBox x:Name="ListaZadan" SelectionMode="Single" Width="400" Margin="10">g</ListBox>
+        
+        <Button Content="Usun" HorizontalAlignment="Center" Margin="10"></Button>
         
         <StackPanel Orientation="Horizontal">
-           <ComboBox>
+           <ComboBox Margin=" 100 0 0 0">
                        <ComboBoxItem>Bolek</ComboBoxItem>
                        <ComboBoxItem>Lolek</ComboBoxItem>
                    </ComboBox>
                    <Image></Image> 
         </StackPanel>
         
-        <RadioButton>niski(łatwe)</RadioButton>
-        <RadioButton>normalny(zwykły)</RadioButton>
-        <RadioButton>wysoki(trudne)</RadioButton>
+        <RadioButton Margin=" 80 0 0 0">niski(łatwe)</RadioButton>
+        <RadioButton Margin=" 80 0 0 0">normalny(zwykły)</RadioButton>
+        <RadioButton Margin=" 80 0 0 0">wysoki(trudne)</RadioButton>
         
-        <CheckBox>Na dworze</CheckBox>
-        <CheckBox>Potrzebny sprzęt</CheckBox>
-        <CheckBox>Z udziałem kolegow</CheckBox>
-        <CheckBox>Po szkole</CheckBox>
-        <CheckBox>Z dorosłym</CheckBox>
+        <CheckBox Margin=" 180 0 0 0">Na dworze</CheckBox>
+        <CheckBox Margin=" 180 0 0 0">Potrzebny sprzęt</CheckBox>
+        <CheckBox Margin=" 180 0 0 0">Z udziałem kolegow</CheckBox>
+        <CheckBox Margin=" 180 0 0 0">Po szkole</CheckBox>
+        <CheckBox Margin=" 180 0 0 0">Z dorosłym</CheckBox>
         
     </StackPanel>
 </Window>
