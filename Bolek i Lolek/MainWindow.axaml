@@ -20,11 +20,11 @@
         <Button Content="Usun" HorizontalAlignment="Center" Margin="10"></Button>
         
         <StackPanel Orientation="Horizontal">
-           <ComboBox Margin=" 100 0 0 0">
+           <ComboBox Margin=" 100 0 0 0" x:Name="MyComboBox">
                        <ComboBoxItem>Bolek</ComboBoxItem>
                        <ComboBoxItem>Lolek</ComboBoxItem>
                    </ComboBox>
-                   <Image></Image> 
+                   <Image x:Name="ShowImage" Width="100" Margin=" 20 0 0 0"></Image> 
         </StackPanel>
         
         <RadioButton Margin=" 80 0 0 0">niski(łatwe)</RadioButton>
