@@ -37,5 +37,7 @@
         <CheckBox Margin=" 180 0 0 0">Po szkole</CheckBox>
         <CheckBox Margin=" 180 0 0 0">Z dorosłym</CheckBox>
         
+        <CalendarDatePicker x:Name="EgzamCalendar" Margin="10"></CalendarDatePicker>
+        
     </StackPanel>
 </Window>
