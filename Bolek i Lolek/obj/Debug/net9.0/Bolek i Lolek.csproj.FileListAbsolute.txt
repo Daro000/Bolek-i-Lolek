@@ -71,3 +71,4 @@
 /home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/Debug/net9.0/Bolek i Lolek.pdb
 /home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/Debug/net9.0/Bolek i Lolek.genruntimeconfig.cache
 /home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/Debug/net9.0/ref/Bolek i Lolek.dll
+/home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/Debug/net9.0/Bolek i Lolek.sourcelink.json

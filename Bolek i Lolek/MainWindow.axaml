@@ -5,12 +5,34 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="Bolek_i_Lolek.MainWindow"
         Title="Bolek_i_Lolek">
+    
     <StackPanel>
-        <TextBox Watermark="Wpisz tutaj..." Width="200">
-        </TextBox>
+        
+        <TextBox Watermark="Wpisz tutaj..." Width="200"></TextBox>
         
         <Button Content="Dodaj"></Button>
+        
+        <TextBlock>Lista z zadaniami Bloka i Lolka</TextBlock>
+        
         <ListBox x:Name="ListaZadan" SelectionMode="Single"></ListBox>
+        
+        <StackPanel Orientation="Horizontal">
+           <ComboBox>
+                       <ComboBoxItem>Bolek</ComboBoxItem>
+                       <ComboBoxItem>Lolek</ComboBoxItem>
+                   </ComboBox>
+                   <Image></Image> 
+        </StackPanel>
+        
+        <RadioButton>niski(łatwe)</RadioButton>
+        <RadioButton>normalny(zwykły)</RadioButton>
+        <RadioButton>wysoki(trudne)</RadioButton>
+        
+        <CheckBox>Na dworze</CheckBox>
+        <CheckBox>Potrzebny sprzęt</CheckBox>
+        <CheckBox>Z udziałem kolegow</CheckBox>
+        <CheckBox>Po szkole</CheckBox>
+        <CheckBox>Z dorosłym</CheckBox>
         
     </StackPanel>
 </Window>
