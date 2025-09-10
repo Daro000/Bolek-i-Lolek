@@ -72,3 +72,77 @@
 /home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/Debug/net9.0/Bolek i Lolek.genruntimeconfig.cache
 /home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/Debug/net9.0/ref/Bolek i Lolek.dll
 /home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/Debug/net9.0/Bolek i Lolek.sourcelink.json
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Bolek i Lolek.exe
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Bolek i Lolek.deps.json
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Bolek i Lolek.runtimeconfig.json
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Bolek i Lolek.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Bolek i Lolek.pdb
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Base.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Controls.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.DesignerSupport.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Dialogs.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Markup.Xaml.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Markup.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Metal.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.MicroCom.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.OpenGL.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Vulkan.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Desktop.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Diagnostics.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Fonts.Inter.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.FreeDesktop.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Native.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Remote.Protocol.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Skia.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Themes.Simple.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Win32.Automation.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.Win32.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Avalonia.X11.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\MicroCom.Runtime.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\Tmds.DBus.Protocol.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.csproj.AssemblyReference.cache
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Avalonia\resources
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.AssemblyInfoInputs.cache
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.AssemblyInfo.cs
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.csproj.CoreCompileInputs.cache
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.sourcelink.json
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i .EAB8C6E1.Up2Date
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\refint\Bolek i Lolek.dll
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.pdb
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\Bolek i Lolek.genruntimeconfig.cache
+C:\Users\Daro\RiderProjects\Bolek-i-Lolek\Bolek i Lolek\obj\Debug\net9.0\ref\Bolek i Lolek.dll

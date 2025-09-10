@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/Bolek i Lolek.csproj": {}
+    "C:\\Users\\Daro\\RiderProjects\\Bolek-i-Lolek\\Bolek i Lolek\\Bolek i Lolek.csproj": {}
   },
   "projects": {
-    "/home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/Bolek i Lolek.csproj": {
+    "C:\\Users\\Daro\\RiderProjects\\Bolek-i-Lolek\\Bolek i Lolek\\Bolek i Lolek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/Bolek i Lolek.csproj",
+        "projectUniqueName": "C:\\Users\\Daro\\RiderProjects\\Bolek-i-Lolek\\Bolek i Lolek\\Bolek i Lolek.csproj",
         "projectName": "Bolek i Lolek",
-        "projectPath": "/home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/Bolek i Lolek.csproj",
-        "packagesPath": "/home/daro/.nuget/packages/",
-        "outputPath": "/home/daro/RiderProjects/Bolek i Lolek/Bolek i Lolek/obj/",
+        "projectPath": "C:\\Users\\Daro\\RiderProjects\\Bolek-i-Lolek\\Bolek i Lolek\\Bolek i Lolek.csproj",
+        "packagesPath": "C:\\Users\\Daro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daro\\RiderProjects\\Bolek-i-Lolek\\Bolek i Lolek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/daro/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Daro\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -82,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

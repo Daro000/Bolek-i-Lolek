@@ -8,28 +8,28 @@
     
     <StackPanel>
         <StackPanel Orientation="Horizontal">
-        <TextBox Watermark="Wpisz tutaj..." Width="200" HorizontalAlignment="Left" Margin="10"></TextBox>
+        <TextBox x:Name="Zadanie" Watermark="Wpisz tutaj..." Width="200" HorizontalAlignment="Left" Margin="10"></TextBox>
         
-        <Button Content="Dodaj"></Button>
+        <Button Content="Dodaj" Click="Button_OnClick"></Button>
         </StackPanel>
         
         <TextBlock HorizontalAlignment="Center">Lista z zadaniami Bloka i Lolka</TextBlock>
         
         <ListBox x:Name="ListaZadan" SelectionMode="Single" Width="400" Margin="10">g</ListBox>
         
-        <Button Content="Usun" HorizontalAlignment="Center" Margin="10"></Button>
+        <Button x:Name="Usun" Content="Usun" HorizontalAlignment="Center" Margin="10" Click="Usun_OnClick"></Button>
         
         <StackPanel Orientation="Horizontal">
-           <ComboBox Margin=" 100 0 0 0" x:Name="MyComboBox">
+           <ComboBox Margin=" 100 0 0 0" x:Name="MyComboBox" SelectionChanged="MyComboBox_OnSelectionChanged">
                        <ComboBoxItem>Bolek</ComboBoxItem>
                        <ComboBoxItem>Lolek</ComboBoxItem>
                    </ComboBox>
                    <Image x:Name="ShowImage" Width="100" Margin=" 20 0 0 0"></Image> 
         </StackPanel>
         
-        <RadioButton Margin=" 80 0 0 0">niski(łatwe)</RadioButton>
-        <RadioButton Margin=" 80 0 0 0">normalny(zwykły)</RadioButton>
-        <RadioButton Margin=" 80 0 0 0">wysoki(trudne)</RadioButton>
+        <RadioButton x:Name="NiskiPriorytet" GroupName="Poziomy" Margin=" 80 0 0 0">niski(łatwe)</RadioButton>
+        <RadioButton x:Name="NormalnyPriorytet" GroupName="Poziomy" Margin=" 80 0 0 0">normalny(zwykły)</RadioButton>
+        <RadioButton x:Name="WysokiPriorytet" GroupName="Poziomy" Margin=" 80 0 0 0">wysoki(trudne)</RadioButton>
         
         <CheckBox Margin=" 180 0 0 0">Na dworze</CheckBox>
         <CheckBox Margin=" 180 0 0 0">Potrzebny sprzęt</CheckBox>
