@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bolek i Lolek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d279bdfc1b1e07f69622442f251e6e760a6444")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade82b8b4ced6fba3c1831a01e6a6342fbc0c4b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bolek i Lolek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bolek i Lolek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

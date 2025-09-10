@@ -15,7 +15,7 @@
         
         <TextBlock HorizontalAlignment="Center">Lista z zadaniami Bloka i Lolka</TextBlock>
         
-        <ListBox x:Name="ListaZadan" SelectionMode="Single" Width="400" Margin="10">g</ListBox>
+        <ListBox x:Name="ListaZadan" SelectionMode="Single" Width="700" Margin="10"> </ListBox>
         
         <Button x:Name="Usun" Content="Usun" HorizontalAlignment="Center" Margin="10" Click="Usun_OnClick"></Button>
         
@@ -31,13 +31,14 @@
         <RadioButton x:Name="NormalnyPriorytet" GroupName="Poziomy" Margin=" 80 0 0 0">normalny(zwykły)</RadioButton>
         <RadioButton x:Name="WysokiPriorytet" GroupName="Poziomy" Margin=" 80 0 0 0">wysoki(trudne)</RadioButton>
         
-        <CheckBox Margin=" 180 0 0 0">Na dworze</CheckBox>
-        <CheckBox Margin=" 180 0 0 0">Potrzebny sprzęt</CheckBox>
-        <CheckBox Margin=" 180 0 0 0">Z udziałem kolegow</CheckBox>
-        <CheckBox Margin=" 180 0 0 0">Po szkole</CheckBox>
-        <CheckBox Margin=" 180 0 0 0">Z dorosłym</CheckBox>
+        <CheckBox x:Name="NaDworze" Margin=" 180 0 0 0">Na dworze</CheckBox>
+        <CheckBox x:Name="PotrzebnySprzet" Margin=" 180 0 0 0">Potrzebny sprzęt</CheckBox>
+        <CheckBox x:Name="UdzialKolegow" Margin=" 180 0 0 0">Z udziałem kolegow</CheckBox>
+        <CheckBox x:Name="PoSzkole" Margin=" 180 0 0 0">Po szkole</CheckBox>
+        <CheckBox x:Name="Dorosly" Margin=" 180 0 0 0">Z dorosłym</CheckBox>
         
         <CalendarDatePicker x:Name="EgzamCalendar" Margin="10"></CalendarDatePicker>
         
+        <Button Content="Wyświetl Podsumowanie Dnia" HorizontalAlignment="Center" Margin="10" Click="SumarryOpen_OnClick"></Button>
     </StackPanel>
 </Window>

@@ -3,7 +3,10 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="Bolek i Lolek/App.axaml" value="Bolek i Lolek/Bolek i Lolek.csproj" />
         <entry key="Bolek i Lolek/MainWindow.axaml" value="Bolek i Lolek/Bolek i Lolek.csproj" />
+        <entry key="Bolek i Lolek/PodsumowanieDnia.axaml" value="Bolek i Lolek/Bolek i Lolek.csproj" />
+        <entry key="Bolek i Lolek/Styles.axaml" value="Bolek i Lolek/Bolek i Lolek.csproj" />
       </map>
     </option>
   </component>

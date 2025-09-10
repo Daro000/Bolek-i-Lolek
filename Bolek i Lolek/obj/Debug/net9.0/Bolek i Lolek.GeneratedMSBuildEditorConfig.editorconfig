@@ -26,3 +26,6 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/Daro/RiderProjects/Bolek-i-Lolek/Bolek i Lolek/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Daro/RiderProjects/Bolek-i-Lolek/Bolek i Lolek/PodsumowanieDnia.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
